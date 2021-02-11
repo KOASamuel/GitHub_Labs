@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\HND Computing - Year 2\CTEC2902 - Advanced Programming\CTEC2902GitLabs\Week17-ErrorHandlingWebsite\ErrorProneWebsite.Tests\bin\Debug\ErrorProneWebsite.Tests.dll
+\\Mac\Home\Desktop\HND Computing - Year 2\CTEC2902 - Advanced Programming\CTEC2902GitLabs\Week17-ErrorHandlingWebsite\ErrorProneWebsite.Tests\bin\Debug\ErrorProneWebsite.Tests.pdb
+\\Mac\Home\Desktop\HND Computing - Year 2\CTEC2902 - Advanced Programming\CTEC2902GitLabs\Week17-ErrorHandlingWebsite\ErrorProneWebsite.Tests\bin\Debug\ErrorProneWebsite.dll
+\\Mac\Home\Desktop\HND Computing - Year 2\CTEC2902 - Advanced Programming\CTEC2902GitLabs\Week17-ErrorHandlingWebsite\ErrorProneWebsite.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\Mac\Home\Desktop\HND Computing - Year 2\CTEC2902 - Advanced Programming\CTEC2902GitLabs\Week17-ErrorHandlingWebsite\ErrorProneWebsite.Tests\bin\Debug\ErrorProneWebsite.pdb
+\\Mac\Home\Desktop\HND Computing - Year 2\CTEC2902 - Advanced Programming\CTEC2902GitLabs\Week17-ErrorHandlingWebsite\ErrorProneWebsite.Tests\bin\Debug\ErrorProneWebsite.dll.config
+\\Mac\Home\Desktop\HND Computing - Year 2\CTEC2902 - Advanced Programming\CTEC2902GitLabs\Week17-ErrorHandlingWebsite\ErrorProneWebsite.Tests\obj\Debug\ErrorProneWebsite.Tests.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\HND Computing - Year 2\CTEC2902 - Advanced Programming\CTEC2902GitLabs\Week17-ErrorHandlingWebsite\ErrorProneWebsite.Tests\obj\Debug\ErrorProneWebsite.Tests.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\HND Computing - Year 2\CTEC2902 - Advanced Programming\CTEC2902GitLabs\Week17-ErrorHandlingWebsite\ErrorProneWebsite.Tests\obj\Debug\ErrorProneWebsite.Tests.csproj.CopyComplete
+\\Mac\Home\Desktop\HND Computing - Year 2\CTEC2902 - Advanced Programming\CTEC2902GitLabs\Week17-ErrorHandlingWebsite\ErrorProneWebsite.Tests\obj\Debug\ErrorProneWebsite.Tests.dll
+\\Mac\Home\Desktop\HND Computing - Year 2\CTEC2902 - Advanced Programming\CTEC2902GitLabs\Week17-ErrorHandlingWebsite\ErrorProneWebsite.Tests\obj\Debug\ErrorProneWebsite.Tests.pdb
